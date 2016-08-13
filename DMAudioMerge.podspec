@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "DMAudioMerge"
   s.version      = "0.0.1"
-  s.summary      = "audio merge eg. mp3/wav format merge"
+  s.summary      = "音频合成工具"
 
   s.description  = <<-DESC
                    A longer description of DMAudioMerge in Markdown format.
